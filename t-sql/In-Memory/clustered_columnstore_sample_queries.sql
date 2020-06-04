@@ -1,4 +1,4 @@
-/*************************************************************************
+/**************************************************************************
  This sample targets DataWarehouse workload. We recommend using clustered 
  columnstore index for large tables (million+) rows and traditional rowstore
  for tables of size < 1 million rows. The examples here are based on star schema
